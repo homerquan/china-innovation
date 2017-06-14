@@ -1,10 +1,9 @@
-# Innovation in China
+# Customer
 
-Customer
+Silicon Valley  
+Route 128
 
-Policy
+Cambridge
 
-Customize technology for local customers. 
 
-Investment
 
