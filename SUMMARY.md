@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [History](chapter1.md)
-* Present
-* Future
+* [Present](present.md)
+* [Future](future.md)
 
